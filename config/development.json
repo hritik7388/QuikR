@@ -1,9 +1,9 @@
 {
-  "port": 2026,
-  "hostAddress": "localhost:2026",
+  "port": 2027,
+  "hostAddress": "localhost:2027",
   "databaseHost": "localhost",
   "databasePort": "27017",
-  "databaseName": "wearo-journey",
+  "databaseName": "QuickR",
   "jwtsecret": "nodejwt",
   "jwtresetsecret": "nodejwt",
   "jwtOptions": {
@@ -11,9 +11,9 @@
   },
   "swaggerDefinition": {
     "info": {
-      "title": "wearO-journey Application",
+      "title": "QuickR Application",
       "version": "2.0",
-      "description": "wearO-journey Application API Docs"
+      "description": "QuickR Application API Docs"
     },
     "basePath": "/api/v1",
     "securityDefinitions": {
